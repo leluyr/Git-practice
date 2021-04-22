@@ -1,1 +1,2 @@
 git command sample
+add change has registered in the index
